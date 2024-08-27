@@ -44,7 +44,7 @@
 #define HAVE_INTTYPES_H 1
 
 /* Define to 1 if you have the <machine/types.h> header file. */
-#define HAVE_MACHINE_TYPES_H 1
+/* #define HAVE_MACHINE_TYPES_H */
 
 /* Define to 1 if you have the <netinet/in.h> header file. */
 #define HAVE_NETINET_IN_H 1
